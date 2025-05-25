@@ -1,24 +1,5 @@
 {
-  "person": [
-    {
-      "nama": "Aldi",
-      "kelas": "3CA",
-      "jurusan": "Teknik Komputer"
-    },
-    {
-      "nama": "Dafa",
-      "kelas": "3CA",
-      "jurusan": "Teknik Komputer"
-    },
-    {
-      "nama": "RusdYe",
-      "kelas": "3CiumMemberKaMulut",
-      "jurusan": "Teknik Menggetar"
-    },
-    {
-      "nama": "Dicky",
-      "kelas": "3CiumMemberKaMulut",
-      "jurusan": "Teknik Menggetar"
-    }
-  ]
+  "port": false,
+  "signal": true,
+  "data": 0
 }
